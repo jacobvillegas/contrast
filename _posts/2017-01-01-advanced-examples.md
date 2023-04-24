@@ -4,7 +4,7 @@ layout: post
 categories: media
 ---
 
-![SpeakingHeads](https://github.com/jacobvillegas/NLP_Portfolio/blob/main/IMG_0441.jpeg)
+![SpeakingHeads](assets/images/cool.jpeg)
 
 
 ## SUMMARY
