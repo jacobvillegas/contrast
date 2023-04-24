@@ -13,20 +13,20 @@ layout: post
 
 
 
-# NLP
-##  NLP TECHNICAL SKILL
+## NLP
+###  NLP TECHNICAL SKILL
 - NLTK
 - spACY
 - Wordnet
 - Sentinet
 - 
-## MACHINE LEARNING
+### MACHINE LEARNING
 - ScikitLearn API
 - Keras/Tensorflow API
 - SPARK
 - Matplot Lib, Seaborn
 
-## SOFTSKILLS
+### SOFTSKILLS
 - Project Managment/Development
 - Analytical Thinking
 - Technical Writting
