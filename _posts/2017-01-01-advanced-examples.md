@@ -4,7 +4,7 @@ layout: post
 categories: media
 ---
 
-[SpeakingHeads](https://github.com/jacobvillegas/contrast/blob/master/assets/cool.jpeg)
+![SpeakingHeads](/assets/cool.jpeg)
 
 
 ## SUMMARY
