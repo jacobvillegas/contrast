@@ -8,8 +8,8 @@ categories: media
 Natural Langugage Processing
 
 
-1[Talking][t]
-[t]:(/cool.jpg)
+[Talking][t]
+[t]:(aaset/cool.jpeg)
 
 
 Natural Language Processing (NLP) is multidisciplanary field that crosses Computer Science and Artificial Intelgience(AI). Please see my opinon and a brief intoduction into NLP:
