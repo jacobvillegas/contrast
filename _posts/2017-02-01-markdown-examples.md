@@ -9,13 +9,12 @@ layout: post
 - spACY
 - Wordnet
 - Sentinet
-
+- 
 ## MACHINE LEARNING
--Sckit Learn API
--KERAS/TENSORFLOW API
--Seaborn, Matplotlib
--SPARK
--Databrick API
+- ScikitLearn API
+- Keras/Tensorflow API
+- SPARK
+- Matplot Lib, Seaborn
 
 ## SOFTSKILLS
 - Project Managment/Development
