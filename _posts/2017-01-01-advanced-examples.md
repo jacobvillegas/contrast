@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Swiss Alps](https://github.com/jacobvillegas/contrast/blob/master/assets/cool.jpeg))
+![Swiss Alps](https://github.com/jacobvillegas/contrast/blob/master/assets/cool.jpeg)
 
 
 ## MathJax
