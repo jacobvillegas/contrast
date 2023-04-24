@@ -28,8 +28,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Current Trends-ACL", file: "acl.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:jacobvillegas.gmail.com"}
-  - {title: Github, icon: github, url: "https://jacobvillegas.github.io/contrast/"}
+  - {title: Mail, icon: envelope, url: "mailto:jacobvillegas@gmail.com"}
+  - {title: Github, icon: github, url: "https://jacobvillegas.github.io"}
 #  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
