@@ -1,25 +1,10 @@
 ---
-title: "Welcome to Jekyll"
+title: "Natural Language Processing(NLP)\nby Jacob Villegas"
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+It is believed that we are born with an innate blueprint for language. Language carries the power of expression as well as convey information. Natural Langauge Processing (NLP) is the study of language and is a branch of Computer Science and Artificial Intelligence tha provides computers this human ability. 
 
+Check out the [Intro to NLP](https://github.com/jacobvillegas/NLP_Portfolio/blob/95e5bcf164f101c5f4d347a797594aabdaf424df/OverviewofNLP.pdf) for my take on 
+NLP and the purpose of this site.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
