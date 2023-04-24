@@ -3,6 +3,16 @@ title:  "Technical Skills"
 layout: post
 ---
 
+# Technical Skills
+
+
+
+
+
+
+
+
+
 # NLP
 ##  NLP TECHNICAL SKILL
 - NLTK
