@@ -8,7 +8,8 @@ categories: media
 Natural Langugage Processing
 
 
-![https://github.com/jacobvillegas/contrast/blob/master/cool.jpeg]
+![][1]
+[1]:https://github.com/jacobvillegas/contrast/blob/master/cool.jpeg
 
 
 Natural Language Processing (NLP) is multidisciplanary field that crosses Computer Science and Artificial Intelgience(AI). Please see my opinon and a brief intoduction into NLP:
