@@ -4,7 +4,7 @@ layout: post
 categories: media
 ---
 
-![SpeakingHeads](/cool.jpeg)
+![SpeakingHeads](/cool.jpg)
 
 
 ## SUMMARY
